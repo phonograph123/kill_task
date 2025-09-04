@@ -6,6 +6,9 @@
 它可定时扫描系统进程，自动终止指定黑名单中的进程，支持进程名和完整路径匹配。
 适用于屏蔽广告弹窗、恶意软件、办公环境下自动清理干扰进程等场景。
 
+## 下载
+[kill_task.exe](https://github.com/phonograph123/kill_task/releases/download/python/kill_task.zip)
+
 ## 功能特性
 
 - 支持进程名和路径黑名单
