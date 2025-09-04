@@ -1,0 +1,1 @@
+pyinstaller -F -w --add-data "kill_icon.ico;." kill_task.py

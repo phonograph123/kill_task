@@ -1,0 +1,20 @@
+{
+    "blacklist": [
+        "msgcenter.exe",
+        "GetWordSearch.exe",
+        "360AICenter.exe",
+        "NewsReader.exe",
+        "GameChrome.exe",
+        "360DayPop.exe",
+        "360AI办公-AI文档处理.exe",
+        "multitip.exe",
+        "miniserver.exe",
+        "ntdhcp.exe",
+        "msinfo.exe",
+        "C:\\Users\\dingding\\AppData\\Roaming\\Reader\\Reader.exe",
+        "C:\\Users\\dingding\\AppData\\Roaming\\Reader\\readertray.exe",
+        "SodaDownloader.exe",
+        "C:\\badprogram.exe"
+    ],
+    "check_interval": 10
+}
